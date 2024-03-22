@@ -1,0 +1,38 @@
+[colors.primary]
+foreground = "#FBFFFF"
+
+[colors.normal]
+white = "#FFFFFF"
+green = "#7CFC00"
+blue = "#00BFFF"
+cyan = "#00FFFF"
+magenta = "#FFBBFF"
+
+
+[shell]
+program = "tmux"
+
+[font]
+size = 14.0
+
+[font.normal]
+family = "FiraCode Nerd Font"
+# family = "Hack NFM"
+style = "Bold"
+
+[window]
+decorations = "none"
+opacity = 0.3
+startup_mode = "Maximized"
+
+[window.padding]
+x = 10
+y = 10
+
+[selection]
+save_to_clipboard = true
+
+[keyboard]
+bindings = [
+{key = "v", mods = "Alt",  action = "ToggleViMode"},
+]
