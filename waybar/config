@@ -17,7 +17,6 @@
         "window-rewrite": {
           "telegram": "",
           "code": "󰨞",
-          "chrome": "",
           "obsidian": "󱓧",
           "title<.*nvim.*>": "",
           "title<emerge>": "",
